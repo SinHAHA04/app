@@ -1,2 +1,1 @@
-# app
-App to change world 
+# React JS Application.
